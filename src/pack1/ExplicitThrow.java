@@ -2,8 +2,7 @@ package pack1;
 
 public class ExplicitThrow {
 
-	public static  void throwEx(){
-		
+	public static  void throwEx(){	
 		try{
 		   // If a condition is not satisfied	
 			throw  new ArithmeticException("arith");
